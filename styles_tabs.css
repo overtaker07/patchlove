@@ -3,7 +3,7 @@
 ======================================== */
 @font-face {
   font-family: 'Patchfont';
-  src: url('../RecursosVisuales/Patchfont.woff') format('woff');
+  src: url('RecursosVisuales/Patchfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
