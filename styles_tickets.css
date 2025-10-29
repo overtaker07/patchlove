@@ -3,14 +3,14 @@
 ======================================== */
 @font-face {
   font-family: 'Patchfont';
-  src: url('../RecursosVisuales/Patchfont.woff') format('woff');
+  src: url('RecursosVisuales/Patchfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Skibidi';
-  src: url('../RecursosVisuales/megagothic/MegaGothic.ttf') format('truetype');
+  src: url('RecursosVisuales/MegaGothic.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
